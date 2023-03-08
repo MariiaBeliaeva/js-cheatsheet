@@ -1,6 +1,4 @@
-# Web-site for that1quiz
-
-https://govyazina.github.io/that1quiz/
+# JS cheat sheet
 
 ## Development
 
@@ -14,7 +12,6 @@ npm start
 * generated main.css in ./design/assets/dist/css
 * some scripts in ./design/assets/js
 * global default styles in ./src/scss/layouts/default-styles.scss
-* global variables in ./src/scss/layouts/global.scss
 
 ## Deploy
 
